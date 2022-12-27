@@ -1,4 +1,3 @@
-// Copyright 2022 kossmali, lelaanna, giovannb
 #include <stdio.h>
 
 void draw(int leftPad, int rightPad, int ballX, int ballY,
